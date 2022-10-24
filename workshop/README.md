@@ -37,6 +37,7 @@ Simplified license management: The extension simplifies SQL Server license manag
 
 <img style="float: right;" src="./images/SQL Iaas 3.png">
 
+PowerShell scripts can be found [here](./sol)
 
 ## Next steps
 
