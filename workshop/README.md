@@ -8,14 +8,16 @@
 | **Duration**                  | *Two hours*                                                                |
 | **Microsoft Cloud Topics taught**                  | *Azure, Azure SQL Server on VM*                                                                |
 | **Slides** | [Powerpoint](BenefitsofSQLVMIaaSextension.pptx) 
-                         
+
+## SQL Server IaaS Extension
+
+<img style="float: right;" src="./images/SQL Iaas 1.png">
+
 ## Video
 
 Overview video regarding the benefits of the SQL Server IaaS Extension [available here](https://www.youtube.com/watch?v=KUlpjoeFipk).
 
 ## What workshopt attendees will learn
-
-<img style="float: right;" src="./images/SQL Iaas 1.png">
 
 *The SQL Server IaaS Agent extension allows for integration with the Azure portal and unlocks a number of feature benefits for SQL Server on Azure VMs:
 
