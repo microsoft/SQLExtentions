@@ -19,13 +19,13 @@ In this workshop, we will discuss *insert your topic*.
                          
 ## Video
 
-Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](https://www.youtube.com/watch?v=KUlpjoeFipk).
+Overview video regarding the benefits of the SQL Server IaaS Extension [available here](https://www.youtube.com/watch?v=KUlpjoeFipk).
 
 ## What workshopt attendees will learn
 
 *In this area, describe the scenario and intended solution, paraphrasing what is in the module or creating a brief description here*
 
-![SQL Server IaaS Extension for Azure VM's](images/SQL Iaas 1.jpg)
+<img style="float: right;" src="/images/SQL Iaas 1.jpg">
 
 Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection.
 
