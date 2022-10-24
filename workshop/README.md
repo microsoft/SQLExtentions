@@ -2,7 +2,7 @@
 
 ## Goals
 
-| **Goal**              | *describe the goal of the workshop*                                    |
+| **Goal**              | *Description*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | *The benefits of enabling the SQL Server IaaS extension on your virtual machines* |
 | **Duration**                  | *Two hours*                                                                |
