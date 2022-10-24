@@ -29,9 +29,10 @@ Overview video regarding the benefits of the SQL Server IaaS Extension [availabl
 
 Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection.
 
-*add a screenshot of the completed project*
+<img style="float: right;" src="./images/SQL Iaas 2.png">
 
-![image of completed project](images/placeholder.png)
+<img style="float: right;" src="./images/SQL Iaas 3.png">
+
 
 ## Milestone 1 (example)
 
