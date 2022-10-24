@@ -1,6 +1,6 @@
 # Workshop
 
-Please click on the following link to access the SQL Server IaaS Extension workshop[click here] (./workshop)
+Please click on the following link to access the SQL Server IaaS Extension workshop[click here ](./workshop)
 
 # Contributing
 
