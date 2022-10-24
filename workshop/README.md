@@ -39,9 +39,7 @@ Simplified license management: The extension simplifies SQL Server license manag
 
 PowerShell scripts can be found [here](./solution)
 
-## Next steps
-
-*links to Microsoft Learn to further learning progress, and/or a path to certifications*
+## Links
 
 Microsoft documentation for SQL Server IaaS Extension [available here](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-iaas-agent-extension-automate-management?view=azuresql&tabs=azure-powershell)
 
