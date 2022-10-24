@@ -15,7 +15,7 @@ In this workshop, we will discuss *insert your topic*.
 | **Duration**                  | *specify the duration*                                                                |
 | **Microsoft Cloud Topics taught**                  | *M365, Azure, GitHub, other?*                                                                |
 | **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint]("benefits of sql vm iaas extension.pptx") 
+| **Slides** | [Powerpoint]("./benefits of sql vm iaas extension.pptx") 
                          
 ## Video
 
@@ -34,51 +34,10 @@ Example: Have you ever wanted to visit a museum virtually or explore its collect
 <img style="float: right;" src="./images/SQL Iaas 3.png">
 
 
-## Milestone 1 (example)
-
-In this segment, you'll query an API at the Metropolitan Museum of Art
-
-[link to Learn module area](link)
-
-## Milestone 2
-
-text
-
-link
-
-## Milestone 3
-
-text
-
-link
-
-## Milestone 4
-
-text
-
-link
-
-## Milestone 5
-
-text
-
-link
-
-## Quiz or Code Challenge
-
-Link to quiz or challenge on Learn
-
 ## Next steps
 
 *links to Microsoft Learn to further learning progress, and/or a path to certifications*
 
-## Practice
-
-*suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
-
-## Feedback
-
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
 [Code of Conduct](../CODE_OF_CONDUCT.md)
 
