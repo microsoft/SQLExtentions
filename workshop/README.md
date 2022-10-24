@@ -32,6 +32,8 @@ Example: Have you ever wanted to visit a museum virtually or explore its collect
 
 *links to Microsoft Learn to further learning progress, and/or a path to certifications*
 
+Microsoft documentation for SQL Server IaaS Extension [available here](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-iaas-agent-extension-automate-management?view=azuresql&tabs=azure-powershell)
+
 
 [Code of Conduct](../CODE_OF_CONDUCT.md)
 
