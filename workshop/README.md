@@ -25,7 +25,7 @@ Overview video regarding the benefits of the SQL Server IaaS Extension [availabl
 
 *In this area, describe the scenario and intended solution, paraphrasing what is in the module or creating a brief description here*
 
-<img style="float: right;" src="/images/SQL Iaas 1.png">
+<img style="float: right;" src="./images/SQL Iaas 1.png">
 
 Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection.
 
