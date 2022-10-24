@@ -2,8 +2,6 @@
 
 ## Goals
 
-In this workshop, we will discuss *insert your topic*.
-
 | **Goal**              | *describe the goal of the workshop*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | *The benefits of enabling the SQL Server IaaS extension on your virtual machines* |
