@@ -19,19 +19,13 @@ In this workshop, we will discuss *insert your topic*.
                          
 ## Video
 
-Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](../video-guidance.md).
+Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](https://www.youtube.com/watch?v=KUlpjoeFipk).
 
-## Pre-Learning
-
-*add a link to Microsoft Learn for students to pre-learn the topic, if possible*
-
-## Prerequisites
-
-*any installations that will be helpful, any hardware or software needed*
-
-## What students will learn
+## What workshopt attendees will learn
 
 *In this area, describe the scenario and intended solution, paraphrasing what is in the module or creating a brief description here*
+
+![SQL Server IaaS Extension for Azure VM's](images/SQL Iaas 1.jpg)
 
 Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection.
 
