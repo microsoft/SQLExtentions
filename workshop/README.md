@@ -1,9 +1,5 @@
 # SQL IaaS Extension workshop
 
-## Module Source Link
-
-Link the source Learn module here
-
 ## Goals
 
 In this workshop, we will discuss *insert your topic*.
