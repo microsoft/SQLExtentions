@@ -15,7 +15,7 @@ In this workshop, we will discuss *insert your topic*.
 | **Duration**                  | *specify the duration*                                                                |
 | **Microsoft Cloud Topics taught**                  | *M365, Azure, GitHub, other?*                                                                |
 | **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |
-| **Slides** | [Powerpoint]("BenefitsofSQLVMIaaSextension.pptx") 
+| **Slides** | [Powerpoint](BenefitsofSQLVMIaaSextension.pptx) 
                          
 ## Video
 
