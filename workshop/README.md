@@ -27,9 +27,11 @@ Compliance: The extension offers a simplified method to fulfill the requirement 
 
 Free: The extension in all three manageability modes is completely free. There is no additional cost associated with the extension, or with changing management modes.
 
-Simplified license management: The extension simplifies SQL Server license management, and allows you to quickly identify SQL Server VMs with the Azure Hybrid Benefit enabled using the*
+Simplified license management: The extension simplifies SQL Server license management, and allows you to quickly identify SQL Server VMs with the Azure Hybrid Benefit enabled using the Azure portal, PowerShell or the Azure CLI.*
 
 <img style="float: right;" src="./images/SQL Iaas 2.png">
+
+### Options for enabling the extension
 
 <img style="float: right;" src="./images/SQL Iaas 3.png">
 
