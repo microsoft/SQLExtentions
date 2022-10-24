@@ -10,11 +10,9 @@ In this workshop, we will discuss *insert your topic*.
 
 | **Goal**              | *describe the goal of the workshop*                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | *describe your learning goals*                                        |
-| **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
-| **Duration**                  | *specify the duration*                                                                |
-| **Microsoft Cloud Topics taught**                  | *M365, Azure, GitHub, other?*                                                                |
-| **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder*                          |
+| **What will you learn**       | *The benefits of enabling the SQL Server IaaS extension on your virtual machines* |
+| **Duration**                  | *Two hours*                                                                |
+| **Microsoft Cloud Topics taught**                  | *Azure, Azure SQL Server on VM*                                                                |
 | **Slides** | [Powerpoint](BenefitsofSQLVMIaaSextension.pptx) 
                          
 ## Video
