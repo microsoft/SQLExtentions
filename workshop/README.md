@@ -34,6 +34,7 @@ Example: Have you ever wanted to visit a museum virtually or explore its collect
 
 Microsoft documentation for SQL Server IaaS Extension [available here](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-iaas-agent-extension-automate-management?view=azuresql&tabs=azure-powershell)
 
+Migrate on-prem SQL Server to Azure VM using Azure Data Studio [click here](https://learn.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-virtual-machine-online-ads)
 
 [Code of Conduct](../CODE_OF_CONDUCT.md)
 
