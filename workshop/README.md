@@ -17,7 +17,7 @@
 
 Overview video regarding the benefits of the SQL Server IaaS Extension [available here](https://www.youtube.com/watch?v=KUlpjoeFipk).
 
-## What workshopt attendees will learn
+## What workshop attendees will learn
 
 *The SQL Server IaaS Agent extension allows for integration with the Azure portal and unlocks a number of feature benefits for SQL Server on Azure VMs:
 
