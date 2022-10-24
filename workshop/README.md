@@ -1,4 +1,4 @@
-# Full Workshop Title
+# SQL IaaS Extension workshop
 
 ## Module Source Link
 
