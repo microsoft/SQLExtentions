@@ -19,7 +19,7 @@ Overview video regarding the benefits of the SQL Server IaaS Extension [availabl
 
 ## What workshop attendees will learn
 
-*The SQL Server IaaS Agent extension allows for integration with the Azure portal and unlocks a number of feature benefits for SQL Server on Azure VMs:
+The SQL Server IaaS Agent extension allows for integration with the Azure portal and unlocks a number of feature benefits for SQL Server on Azure VMs:
 
 Feature benefits: The extension unlocks a number of automation feature benefits, such as portal management, license flexibility, automated backup, automated patching and more. See Feature benefits later in this article for details.
 
@@ -27,7 +27,7 @@ Compliance: The extension offers a simplified method to fulfill the requirement 
 
 Free: The extension in all three manageability modes is completely free. There is no additional cost associated with the extension, or with changing management modes.
 
-Simplified license management: The extension simplifies SQL Server license management, and allows you to quickly identify SQL Server VMs with the Azure Hybrid Benefit enabled using the Azure portal, PowerShell or the Azure CLI.*
+Simplified license management: The extension simplifies SQL Server license management, and allows you to quickly identify SQL Server VMs with the Azure Hybrid Benefit enabled using the Azure portal, PowerShell or the Azure CLI.
 
 ### Benefits overview
 
@@ -37,7 +37,7 @@ Simplified license management: The extension simplifies SQL Server license manag
 
 <img style="float: right;" src="./images/SQL Iaas 3.png">
 
-PowerShell scripts can be found [here](./solution) *To Do: Matt to upload scripts
+PowerShell scripts can be found [here](./solution) To Do: Matt to upload scripts
 
 ## Suggested Workshop Steps
 
