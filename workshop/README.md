@@ -44,6 +44,7 @@ PowerShell scripts can be found [here](./solution) *To Do: Matt to upload script
 1. Download the PowerPoint presentation from [here](BenefitsofSQLVMIaaSextension.pptx).
 2. Get familiar with the advantages of the SQL Server IaaS Extension.
 3. Download and become familiar with the scripts [here](./solution).
+4. Present to customer.
 
 ## Links
 
