@@ -41,7 +41,7 @@ PowerShell scripts can be found [here](./solution) *To Do: Matt to upload script
 
 ## Suggested Workshop Steps
 
-Abc...
+1. Download the PowerPoint presentation from [here](BenefitsofSQLVMIaaSextension.pptx) 
 
 ## Links
 
