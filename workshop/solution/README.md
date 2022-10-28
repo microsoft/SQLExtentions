@@ -1,12 +1,12 @@
 ## General Overview
 
-In order to un any of the scripts, you need to have one of the two powershell modules for Azure installed.
+In order to un any of the scripts, you need to have one of the two powershell modules for Azure installed (AzureRM or the Az module).
 
 This is the AzureRM module [here](https://learn.microsoft.com/en-us/powershell/azure/azurerm/overview?view=azurermps-6.13.0)
 
 However, the AzureRM is being retired for the Az module which can be found [here:](https://learn.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-9.0.1)
 
-In the spirit of low-friction, all of these scripts support both formats.  If AzureRM is not installed, we will attempt to install the Az module and continue on.
+In the spirit of low-friction, all of these scripts support both formats.  If AzureRM is installed, we will use it, if not, we will attempt to install the newer Az module and continue on.
 
 For more information on the module retirement, see this [link](https://learn.microsoft.com/en-us/powershell/azure/migrate-from-azurerm-to-az?view=azps-9.0.1)
 
