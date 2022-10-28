@@ -37,7 +37,7 @@ Simplified license management: The extension simplifies SQL Server license manag
 
 <img style="float: right;" src="./images/SQL Iaas 3.png">
 
-PowerShell scripts can be found [here](./solution) *To Do: Matt to upload scripts*
+PowerShell scripts can be found [here](./solution)
 
 ## Suggested Workshop Steps
 
@@ -52,9 +52,10 @@ Microsoft documentation for SQL Server IaaS Extension [available here](https://l
 
 Migrate on-prem SQL Server to Azure VM using Azure Data Studio [click here](https://learn.microsoft.com/en-us/azure/dms/tutorial-sql-server-to-virtual-machine-online-ads)
 
+What is SQL Server IaaS Agent Video on Data Exposed [here](https://techcommunity.microsoft.com/t5/video-hub/azure-sql-vm-what-is-sql-server-iaas-agent-extension-ep-2-data/ba-p/2617227)
+
 SQL Server Privacy Statement for the IaaS extension agent [here](https://learn.microsoft.com/en-us/sql/sql-server/sql-server-privacy?view=sql-server-ver16#non-personal-data)
 
-What is SQL Server IaaS Agent [here](https://techcommunity.microsoft.com/t5/video-hub/azure-sql-vm-what-is-sql-server-iaas-agent-extension-ep-2-data/ba-p/2617227)
 
 
 
