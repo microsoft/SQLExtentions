@@ -54,6 +54,8 @@ Migrate on-prem SQL Server to Azure VM using Azure Data Studio [click here](http
 
 What is SQL Server IaaS Agent Video on Data Exposed [here](https://techcommunity.microsoft.com/t5/video-hub/azure-sql-vm-what-is-sql-server-iaas-agent-extension-ep-2-data/ba-p/2617227)
 
+Baseline Powershell modules to create your own custom code and deeper dives can be found [here](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-agent-extension-manually-register-single-vm?view=azuresql&tabs=powershell)  or just use the prebuilt scripts for a much easier interface.
+
 SQL Server Privacy Statement for the IaaS extension agent [here](https://learn.microsoft.com/en-us/sql/sql-server/sql-server-privacy?view=sql-server-ver16#non-personal-data)
 
 
