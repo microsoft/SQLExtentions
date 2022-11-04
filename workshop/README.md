@@ -7,7 +7,7 @@
 | **What will you learn**       | *The benefits of enabling the SQL Server IaaS extension on your virtual machines* |
 | **Duration**                  | *Two hours*                                                                |
 | **Microsoft Cloud Topics taught**                  | *Azure, Azure SQL Server on VM*                                                                |
-| **Slides** | [Powerpoint](BenefitsofSQLVMIaaSextension.pptx) 
+| **Slides** | [Powerpoint](Benefits of SQL VM IaaS extension.pptx) 
 
 ## SQL Server IaaS Extension
 
@@ -41,7 +41,7 @@ PowerShell scripts can be found [here](./solution)
 
 ## Suggested Workshop Steps
 
-1. Download the PowerPoint presentation from [here](BenefitsofSQLVMIaaSextension.pptx).
+1. Download the PowerPoint presentation from [here](Benefits of SQL VM IaaS extension.pptx).
 2. Get familiar with the advantages of the SQL Server IaaS Extension.
 3. Download and become familiar with the scripts [here](./solution).
 4. Present to customer.
