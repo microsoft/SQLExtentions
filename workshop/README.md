@@ -56,6 +56,8 @@ PowerShell scripts can be found [here](./solution)
 <img style="float: right;" src="./images/azureportal4.png">
 9. Add the column "Management Mode" and click save. This new column will show you if your SQL IaaS extension is in lightweight or full mode.
 <img style="float: right;" src="./images/azureportal5.png">
+10. Your view should now look similar to this:
+<img style="float: right;" src="./images/azureportal65.png">
 
 ## Links
 
