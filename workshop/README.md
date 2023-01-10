@@ -41,6 +41,8 @@ PowerShell scripts can be found [here](./solution)
 
 ## Workshop Tutorial Steps
 
+### Part 1
+
 1. Download the PowerPoint presentation from [here](BenefitsofSQLVMIaaSextension.pptx).
 2. Get familiar with the advantages of the SQL Server IaaS Extension.
 3. Download and become familiar with the scripts [here](./solution).
@@ -63,7 +65,9 @@ PowerShell scripts can be found [here](./solution)
 10. Your view should now look similar to this:
 <img style="float: right;" src="./images/azureportal6.png">
 
-11.  ...
+### Part 2
+
+11.  In order to turn on the SQL IaaS extension individually on a VM you can use PowerShell in the Azure Cloud Shell.
 <img style="float: right;" src="./images/cloudshell.png">
 
 12.  ...
