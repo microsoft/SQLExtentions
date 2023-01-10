@@ -48,6 +48,9 @@ PowerShell scripts can be found [here](./solution)
 5. In the Azure portal search on "SQL Virtual Machines" in the top center search bar and click it under the Services section.
 <img style="float: right;" src="./images/azureportal1.png">
 
+6. Click the button labeled "Automatic SQL Server VM Registration" at the top of the screen.
+<img style="float: right;" src="./images/azureportal2.png">
+
 ## Links
 
 Microsoft documentation for SQL Server IaaS Extension [available here](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-iaas-agent-extension-automate-management?view=azuresql&tabs=azure-powershell)
