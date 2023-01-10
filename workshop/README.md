@@ -79,10 +79,11 @@ After several seconds you will see the cloud shell command line.
 Get-AzVM
 ```
 
-13. Now 
+13. Now run the following to set vairables for the final PowerShell script. "VM2" below should be replaced by your VM name. "VM1_Group" should be replaced
+by the name of the resource group your VM is in.
 
 ```powershell
-$vm = Get-AzVM -Name _VM2_ -ResourceGroupName _VM1_Group_
+$vm = Get-AzVM -Name VM2 -ResourceGroupName VM1_Group
 ```
 
 
