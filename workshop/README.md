@@ -63,6 +63,12 @@ PowerShell scripts can be found [here](./solution)
 10. Your view should now look similar to this:
 <img style="float: right;" src="./images/azureportal6.png">
 
+11.  ...
+<img style="float: right;" src="./images/cloudshell.png">
+
+12.  ...
+<img style="float: right;" src="./images/cloudshell2.png">
+
 ## Links
 
 Microsoft documentation for SQL Server IaaS Extension [available here](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-iaas-agent-extension-automate-management?view=azuresql&tabs=azure-powershell)
