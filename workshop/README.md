@@ -50,6 +50,8 @@ PowerShell scripts can be found [here](./solution)
 
 6. Click the button labeled "Automatic SQL Server VM Registration" at the top of the screen.
 <img style="float: right;" src="./images/azureportal2.png">
+7. Now pick the subscription you want to enable the SQL IaaS extension for, accept the terms and then click the Register button. 
+<img style="float: right;" src="./images/azureportal3.png">
 
 ## Links
 
