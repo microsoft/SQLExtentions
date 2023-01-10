@@ -46,7 +46,7 @@ PowerShell scripts can be found [here](./solution)
 3. Download and become familiar with the scripts [here](./solution).
 4. Open a new browser tab and then go to your Azure portal by copying this [link](https://portal.azure.com).
 5. In the Azure portal search on "SQL Virtual Machines" in the top center search bar and click it under the Services section.
-<img style="float: right;" src="./images/SQL Iaas 1.png">
+<img style="float: right;" src="./images/azureportal1.png">
 
 ## Links
 
