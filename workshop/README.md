@@ -76,8 +76,15 @@ After several seconds you will see the cloud shell command line.
 12. Now run the following PowerShell script 
 
 ```powershell
-code Get-AzVM
+Get-AzVM
 ```
+
+13. Now 
+
+```powershell
+$vm = Get-AzVM -Name _VM2_ -ResourceGroupName _VM1_Group_
+```
+
 
 ## Links
 
