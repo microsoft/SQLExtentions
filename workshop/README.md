@@ -73,6 +73,12 @@ PowerShell scripts can be found [here](./solution)
 After several seconds you will see the cloud shell command line.
 <img style="float: right;" src="./images/cloudshell2.png">
 
+12. Now run the following PowerShell script 
+
+```powershell
+code Get-AzVM
+```
+
 ## Links
 
 Microsoft documentation for SQL Server IaaS Extension [available here](https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-server-iaas-agent-extension-automate-management?view=azuresql&tabs=azure-powershell)
