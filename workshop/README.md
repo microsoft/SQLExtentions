@@ -85,7 +85,13 @@ by the name of the resource group your VM is in.
 ```powershell
 $vm = Get-AzVM -Name VM2 -ResourceGroupName VM1_Group
 ```
+14. Now run the script to turn on SQL IaaS Extension in lightweigt mode.
 
+```powershell
+ # Register SQL VM with 'Lightweight' SQL IaaS agent
+New-AzSqlVM -Name $vm.Name -ResourceGroupName $vm.ResourceGroupName -Location $vm.Location `
+ -LicenseType AHUB  -SqlManagementType LightWeight
+```
 
 ## Links
 
