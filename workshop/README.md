@@ -67,10 +67,10 @@ PowerShell scripts can be found [here](./solution)
 
 ### Part 2
 
-11.  In order to turn on the SQL IaaS extension individually on a VM you can use PowerShell in the Azure Cloud Shell.
+11.  In order to turn on the SQL IaaS extension individually on a VM you can use PowerShell in the Azure Cloud Shell. To start the cloud shell click the button on top right as shown in this screen shot.
 <img style="float: right;" src="./images/cloudshell.png">
 
-12.  ...
+After several seconds you will see the cloud shell command line.
 <img style="float: right;" src="./images/cloudshell2.png">
 
 ## Links
