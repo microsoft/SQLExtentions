@@ -44,7 +44,7 @@ PowerShell scripts can be found [here](./solution)
 1. Download the PowerPoint presentation from [here](BenefitsofSQLVMIaaSextension.pptx).
 2. Get familiar with the advantages of the SQL Server IaaS Extension.
 3. Download and become familiar with the scripts [here](./solution).
-4. Go to your Azure portal [here](https://portal.azure.com)
+4. Open a new browser tab and then go to your Azure portal by copying this [link](https://portal.azure.com).
 
 ## Links
 
