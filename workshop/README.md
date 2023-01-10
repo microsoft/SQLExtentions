@@ -50,12 +50,16 @@ PowerShell scripts can be found [here](./solution)
 
 6. Click the button labeled "Automatic SQL Server VM Registration" at the top of the screen.
 <img style="float: right;" src="./images/azureportal2.png">
+
 7. Now pick the subscription you want to enable the SQL IaaS extension for, accept the terms and then click the Register button. 
 <img style="float: right;" src="./images/azureportal3.png">
+
 8. To enhance the data shown on the SQL Virtual Machines view, click "Manage View" and then pick the "Edit Columns" option.
 <img style="float: right;" src="./images/azureportal4.png">
+
 9. Add the column "Management Mode" and click save. This new column will show you if your SQL IaaS extension is in lightweight or full mode.
 <img style="float: right;" src="./images/azureportal5.png">
+
 10. Your view should now look similar to this:
 <img style="float: right;" src="./images/azureportal6.png">
 
