@@ -76,7 +76,7 @@ PowerShell scripts can be found [here](./solution)
 After several seconds you will see the cloud shell command line.
 <img style="float: right;" src="./images/cloudshell2.png">
 
-12. Now run the following PowerShell script 
+12. Now run the following PowerShell script to see a list of all VM's in your subscription
 
 ```powershell
 Get-AzVM
