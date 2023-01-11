@@ -13,7 +13,7 @@
 
 <img style="float: right;" src="./images/SQL Iaas 1.png">
 
-## Video
+## Here is a video summary of the benefits of SQL IaaS Extension and how to enable the feature on your VM's with SQL Server
 
 Overview video regarding the benefits of the SQL Server IaaS Extension [available here](https://www.youtube.com/watch?v=KUlpjoeFipk).
 
@@ -39,7 +39,7 @@ Simplified license management: The extension simplifies SQL Server license manag
 
 PowerShell scripts can be found [here](./solution)
 
-## Workshop Tutorial Steps
+## Workshop Steps
 
 ### Part 1
 
