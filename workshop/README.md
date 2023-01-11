@@ -41,11 +41,14 @@ PowerShell scripts can be found [here](./solution)
 
 ## Workshop Steps
 
-### Part 1
+### Part 1 - Preparation
 
 1. Download the PowerPoint presentation from [here](BenefitsofSQLVMIaaSextension.pptx).
 2. Get familiar with the advantages of the SQL Server IaaS Extension.
 3. Download and become familiar with the scripts [here](./solution).
+
+### Part 2 - Enable SQL IaaS Extention per subscription 
+
 4. Open a new browser tab and then go to your Azure portal by copying this [link](https://portal.azure.com).
 5. In the Azure portal search on "SQL Virtual Machines" in the top center search bar and click it under the Services section.
 <img style="float: right;" src="./images/azureportal1.png">
@@ -65,7 +68,7 @@ PowerShell scripts can be found [here](./solution)
 10. Your view should now look similar to this:
 <img style="float: right;" src="./images/azureportal6.png">
 
-### Part 2
+### Part 3 - If you want to immediately install the SQL IaaS extension on a VM and not wait for the above automatic registration to happen, which can take 24 hours, use PowerShell to enable the extenstion on a VM.
 
 11.  In order to turn on the SQL IaaS extension individually on a VM you can use PowerShell in the Azure Cloud Shell. To start the cloud shell click the button on top right as shown in this screen shot.
 <img style="float: right;" src="./images/cloudshell.png">
