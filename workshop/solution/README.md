@@ -47,7 +47,7 @@ This script will get a list of all subscriptions that the user has access to and
 Just call the script like this:
 .\RegisterAllSubscriptions.ps1
 
-## Enable or disable SQL IaaS Extension for an individual VM
+## EnableSQLExtensionbyVM script
 This script will list VM's in your subscription and then let you enable or disable the SQL IaaS Extension for an individual VM.
 
 .\EnableSQLExtensionbyVM.ps1
