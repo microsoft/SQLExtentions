@@ -21,13 +21,13 @@ Overview video regarding the benefits of the SQL Server IaaS Extension [availabl
 
 The SQL Server IaaS Agent extension allows for integration with the Azure portal and unlocks a number of feature benefits for SQL Server on Azure VMs:
 
-Feature benefits: The extension unlocks a number of automation feature benefits, such as portal management, license flexibility, automated backup, automated patching and more. See Feature benefits later in this article for details.
+**Feature benefits:** The extension unlocks a number of automation feature benefits, such as portal management, license flexibility, automated backup, automated patching and more. See Feature benefits later in this article for details.
 
-Compliance: The extension offers a simplified method to fulfill the requirement of notifying Microsoft that the Azure Hybrid Benefit has been enabled as is specified in the product terms. This process negates needing to manage licensing registration forms for each resource.
+**Compliance:** The extension offers a simplified method to fulfill the requirement of notifying Microsoft that the Azure Hybrid Benefit has been enabled as is specified in the product terms. This process negates needing to manage licensing registration forms for each resource.
 
-Free: The extension in all three manageability modes is completely free. There is no additional cost associated with the extension, or with changing management modes.
+**Free:** The extension in all three manageability modes is completely free. There is no additional cost associated with the extension, or with changing management modes.
 
-Simplified license management: The extension simplifies SQL Server license management, and allows you to quickly identify SQL Server VMs with the Azure Hybrid Benefit enabled using the Azure portal, PowerShell or the Azure CLI.
+**Simplified license management:** The extension simplifies SQL Server license management, and allows you to quickly identify SQL Server VMs with the Azure Hybrid Benefit enabled using the Azure portal, PowerShell or the Azure CLI.
 
 ### Benefits overview
 
