@@ -9,8 +9,6 @@
 | **Microsoft Cloud Topics taught**                  | *Azure, Azure SQL Server on VM*                                                                |
 | **Slides** | [Powerpoint](BenefitsofSQLVMIaaSextension.pptx) 
 
-## SQL Server IaaS Extension
-
 <img style="float: right;" src="./images/SQL Iaas 1.png">
 
 ## What workshop attendees will learn
