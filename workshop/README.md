@@ -76,8 +76,8 @@ Video [available here](https://www.youtube.com/watch?v=KUlpjoeFipk).
 
 If prompted about not having a storage account mounted, click on Show advanced settings. Select Create new under Storage account and provide values as below:
 
-Resource Group: Select **Use existing** then
-Storage account: storage
+Resource Group: Select **Use existing** then pick "SQL-Extension-suffix" where suffix is the six digit numer in your lab user.
+Storage account: "lab+suffix"
 File Share: blob
 
 <img style="float: right;" src="./images/cloudshellstorage.png">
