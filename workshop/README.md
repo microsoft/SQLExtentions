@@ -80,7 +80,7 @@ Resource Group: Select **Use existing** then pick "SQL-Extension-suffix" where s
 Storage account: "lab+suffix"
 File Share: blob
 
-<img style="float: right;" src="./images/cloudshellstorage1.png">
+<img style="float: right;" src="./images/cloudshellstorage.png">
 
 After several seconds you will see the cloud shell command line.
 <img style="float: right;" src="./images/cloudshell2.png">
