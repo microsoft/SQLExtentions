@@ -35,7 +35,7 @@ The SQL Server IaaS Agent extension allows for integration with the Azure portal
 
 PowerShell scripts can be found [here](./solution)
 
-## Video summary of the benefits of SQL IaaS Extension and how to enable the feature on your VM's with SQL Server
+### Video summary of the benefits of SQL IaaS Extension and how to enable the feature on your VM's with SQL Server
 
 Video [available here](https://www.youtube.com/watch?v=KUlpjoeFipk).
 
