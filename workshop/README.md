@@ -72,6 +72,8 @@ PowerShell scripts can be found [here](./solution)
 
 11.  In order to turn on the SQL IaaS extension individually on a VM you can use PowerShell in the Azure Cloud Shell. To start the cloud shell click the button on top right as shown in this screen shot.
 
+<img style="float: right;" src="./images/cloudshell.png">
+
 If prompted about not having a storage account mounted, click on Show advanced settings. Select Create new under Storage account and provide values as below:
 
 Resource Group: Select **Use existing** then
@@ -79,8 +81,6 @@ Storage account: storage
 File Share: blob
 
 <img style="float: right;" src="./images/cloudshellstorage.png">
-
-<img style="float: right;" src="./images/cloudshell.png">
 
 After several seconds you will see the cloud shell command line.
 <img style="float: right;" src="./images/cloudshell2.png">
