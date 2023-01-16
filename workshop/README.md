@@ -27,9 +27,11 @@ The SQL Server IaaS Agent extension allows for integration with the Azure portal
 
 <img style="float: right;" src="./images/SQL Iaas 2.png">
 
-### Options for enabling the extension
+### One option for enabling the extension is to simply use the Azure Portal
 
-<img style="float: right;" src="./images/SQL Iaas 3.png">
+<img style="float: right;" src="./images/SQL Iaas 2.png">
+
+### Another option for enabling the extension is PowerShell Scripts
 
 PowerShell scripts can be found [here](./solution)
 
