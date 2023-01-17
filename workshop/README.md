@@ -101,7 +101,7 @@ $vm = Get-AzVM -Name VM2 -ResourceGroupName VM1_Group
 
 ```powershell
 New-AzSqlVM -Name $vm.Name -ResourceGroupName $vm.ResourceGroupName -Location $vm.Location `
- -LicenseType AHUB  -SqlManagementType LightWeight
+ -LicenseType PAYG  -SqlManagementType LightWeight
 ```
 
 15. Review the output to make sure there are no errors.
