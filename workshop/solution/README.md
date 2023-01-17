@@ -30,7 +30,7 @@ This makes it easy to modify the list in scenarios where you want most, but perh
 Call the script like this:
 GetCSVListofAllSubscriptions.ps1
 
-## ResgisterSubscriptionsByCSVList script
+## RegisterSubscriptionsByCSVList script
 
 Take a list of CSV subscription names (that you can create with the GetCSVListofAllSubscriptions script) passed in as a parameter and call EnableBySubscription with that list for registration (Subscription names are resolved to GUIDs if found).
 
